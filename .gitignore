@@ -1,0 +1,10 @@
+*.git
+*.DS_Store
+*.swo
+*.swp
+backup
+tmp
+bin
+gen
+examples
+build.xml
