@@ -1,4 +1,4 @@
-QAysnchttplib (Forks from http://loopj.com/android-async-http/)
+Asynchronous Http Client for Android
 ====================================
 
 An asynchronous, callback-based Http client for Android built on top of Apache's [HttpClient](http://hc.apache.org/httpcomponents-client-ga/) libraries.
